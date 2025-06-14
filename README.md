@@ -1,2 +1,4 @@
-# CI_web23
- latihan ci 3
+nama : admin
+password : admin
+nama: user
+password : user
